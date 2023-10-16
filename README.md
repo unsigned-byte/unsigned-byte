@@ -2,7 +2,7 @@
   <img width="550" height="50" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&center=true&vCenter=true&width=520&lines=Welcome+To+My+Github+Profile+%F0%9F%91%8B"> 
 </p>
 
-## Github Stats <img src="https://imgur.com/a/Oho3DEW" width="36">
+## Github Stats <img src="https://i.ibb.co/QkLMQ2n/fd5097e2b9380fdcc7283.gif" width="36">
 
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=unsigned-byte&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&custom_title=GitHub+Stats)
 ![Git Streak](https://github-readme-streak-stats.herokuapp.com?user=unsigned-byte&theme=dracula)
